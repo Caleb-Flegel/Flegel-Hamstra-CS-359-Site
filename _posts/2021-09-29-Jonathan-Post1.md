@@ -1,10 +1,2 @@
-###|This is a test
-
-Here is my first post, I hope you find it interesting.
-
-####Reasons I think this will work
-
-NONE
-
-
-#####Here's a cool test picture:
+This paper is written about the article entitled “Nuclear submarine deal sparks huge global row as France accuses UK and US of ‘stab in the back”. It is from the evening standard and can be found at https://www.standard.co.uk/news/uk/new-security-pact-australia-us-make-the-world-safer-b955589.html?itm_source=Internal&itm_channel=homepage_trending_article_component&itm_campaign=trending_section&itm_content=2
+This article is a news report on an international political issue, with some commentary and opinions sprinkled in. The main point is going over the recent dispute of how Australia was originally going to contract with a shipbuilder in France to make some admittedly standard diesel-electric submarines. After the new “Aukus” pact was passed, Australia switched to working with the UK to make much more capable nuclear powered submarines based on the designs from the US. As always, France took it personally and the foreign minister Jean-Yves Le Drian stated that “This brutal, unilateral and unpredictable decision reminds me a lot of what Mr Trump used to do, it’s a break in trust and I am extremely angry.” The French ex-ambassador to the US said “The world is a jungle. France has just been reminded of this bitter truth by the way the US and the UK have stabbed her in the back in Australia.” Although it’s fun to poke fun at this over the top language, it is losing quite a large deal that had not just a lot of money, but industry riding on it as well. China decided to chime in and claim that this was an attempt to exclude them and an act of cold war. This whole event would be almost funny, if it wasn’t so likely to increase international tensions and the growing concern for a war with China. The article also goes into some backstory of nuclear subs, and also talks about some more interaction between the representatives and Biden’s response to the issue. As a whole, I enjoyed reading this article, not just for the information itself but also to observe how news articles can be different elsewhere in the world. I find it interesting how much more they refer to Australia and France, when I feel in American reports they tend to focus more on the bigger players like China, Russia, and the UK.
