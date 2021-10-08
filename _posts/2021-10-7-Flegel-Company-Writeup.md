@@ -9,6 +9,6 @@
 	
   Finally, “binder customization” is the third way Antigen says their software can help labs. This option is supposed to suggest customized variants of antibodies to researchers who aren’t quite happy with how their antibody is performing. This may help researchers not have to go through another round of searching to find a better-performing binder. 
 	
-  In addition, Antigen looks quite promising from a business perspective. They claim that the commitment labs need to make toward their AI-Augmented Drug Discovery software is “surprisingly minimal and risk-free.” Back in March, the company announced it had raised $2 million in investment money and was working with “major pharma companies.” (https://pharmaphorum.com/news/welsh-startup-antiverse-raises-2m-for-antibody-discovery-toolkit/) Finally, according to the company’s Twitter page, they are still very active and have recently hired multiple new employees. 
+  In addition, Antigen looks quite promising from a business perspective. They claim that the commitment labs need to make toward their AI-Augmented Drug Discovery software is “surprisingly minimal and risk-free.” Back in March, the company announced it had raised $2 million in investment money and was working with “major pharma companies.” ([source](https://pharmaphorum.com/news/welsh-startup-antiverse-raises-2m-for-antibody-discovery-toolkit/)) Finally, according to the company’s Twitter page, they are still very active and have recently hired multiple new employees. 
 	
-  Overall, Antigen seems to be a very unique and promising startup we could potentially gg visit in Cardiff. 
+  Overall, Antigen seems to be a very unique and promising startup we could potentially go visit in Cardiff. 
