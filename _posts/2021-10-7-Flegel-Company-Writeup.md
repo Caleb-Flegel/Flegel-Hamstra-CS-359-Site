@@ -1,4 +1,5 @@
-Company Website: https://www.antiverse.io 
+##Selected Company: _Antigen_
+####[Company Website] (https://www.antiverse.io)
 
   The company I selected is called Antiverse and is based in Cardiff. Started in 2017 by partners Ben Holland and Murat Tunaboylu, the company seeks to aid in the advancement of drug discovery. Specifically, the company seeks to aid researchers in finding antibodies that could be used in drugs and vaccines. The company has employed “next-generation sequencing” and their Augmented Drug Discovery platform to analyze the work done by the scientists in the lab and suggest solutions. Antigen presents three areas in which their software can help researchers. 
 	
